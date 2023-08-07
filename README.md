@@ -1,3 +1,9 @@
+# FIGARO RELATED ISSUES FOR EXISTS? METHOD FIX
+- https://github.com/laserlemon/figaro/issues/292
+- https://github.com/laserlemon/figaro/pull/291
+
+---
+
 ## 📢 UPDATE
 
 Figaro [v2](https://github.com/laserlemon/figaro/tree/v2) development is underway but _stalled_. I need your help! Please consider [sponsoring Figaro's development](https://github.com/sponsors/laserlemon).
